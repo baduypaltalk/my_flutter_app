@@ -1,0 +1,4 @@
+#Wed Jun 09 14:52:25 ICT 2021
+base.0=/usr/local/src/Projects/Flutters/my_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
